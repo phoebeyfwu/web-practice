@@ -7,5 +7,5 @@
 Line Chart
 <div class="flourish-embed flourish-chart" data-src="visualisation/11737323"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-Bar Chart
-<div class="flourish-embed flourish-chart" data-src="visualisation/11737445"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+Column Chart
+<div class="flourish-embed flourish-chart" data-src="visualisation/11737878"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
