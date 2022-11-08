@@ -1,6 +1,6 @@
 # Part One: Visualizing government debt
 
-<iframe src="https://data.oecd.org/chart/6SoK" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6SoK" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2021</a></iframe>
+<iframe src="https://data.oecd.org/chart/6SoR" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6SoR" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2020</a></iframe>
 
 # Part Two: Flourish
 
