@@ -16,7 +16,7 @@ My name is Phoebe, a second year Arts Management Student. I don't have much codi
 
 ## Visualizing government debt Part One
 [link to visualizing government debt](/dataviz2.md)
-<iframe src="https://data.oecd.org/chart/6SoR" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6SoR" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2020</a></iframe>
+<iframe src="https://data.oecd.org/chart/6SoT" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6SoT" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2018</a></iframe>
 
 ## Visualizing government debt Part Two
 
