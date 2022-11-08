@@ -14,8 +14,12 @@ My name is Phoebe, a second year Arts Management Student. I don't have much codi
 
 # Portforlio
 
-## Visualizing government debt
+## Visualizing government debt Part One
 [link to visualizing government debt](/dataviz2.md)
+<iframe src="https://data.oecd.org/chart/6Sny" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6Sny" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2021</a></iframe>
+
+## Visualizing government debt Part Two
+<div class="flourish-embed flourish-chart" data-src="visualisation/11737323"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ## final project
 final project goes here
