@@ -31,6 +31,8 @@ The Government Debt Bar Chart is the countries' debt-to-GDP ratio in 2018, with 
 
 In comparison, the grid of the line chart reflects the debt-to-GDP trend for each country separately. Similarly, viewers can see the ratio for every country in every year by placing the mouse on the line. Some countries report less data than others, and the percentage is increasing for most countries. The third one is a grid bar chart, which combines information from the two charts above. Viewers can feel the volume of the ratio with the column representation and see the trend for each country over the years. Although it is still difficult to compare each country side by side compared to the first bar chart, the grid of charts is better at showing the all-around performance of individual nations throughout the years. 
 
+## Critique By Design
+[link to critique by design] (/critique by design.md)
 
 ## final project
 final project goes here
