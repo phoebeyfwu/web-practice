@@ -31,8 +31,7 @@ In comparison, the grid of the line chart reflects the debt-to-GDP trend for eac
 ## Critique By Design
 [link to critique by design](/critique-by-design.md)
 
-## final project
-final project goes here
+## Final project
 
 [final project part 1](/final-project-part1.md)
 
