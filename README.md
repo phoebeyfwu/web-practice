@@ -1,4 +1,4 @@
-# web-practice
+# Portfolio
 Telling Story with Data Repo
 
 link to live site https://phoebeyfwu.github.io/web-practice/
