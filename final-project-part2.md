@@ -28,15 +28,18 @@ Besides the huge revenue and popularity ahead, Esport has also taken the first b
 So What is it like to be a pro player? Here take a look of the tournaments,  income, ways of earnings, training daily routine, and commercial obligations.
 
 Daily Training Routine of a player:
+
 <img width="195" alt="Daily Routine of a Player" src="https://user-images.githubusercontent.com/101654251/203791955-517d3fac-1981-4781-8b19-47de5a13eea9.png">
 
 Tournaments and Annual Timeline:
+
 <img width="988" alt="Tournments Timeline" src="https://user-images.githubusercontent.com/101654251/203791270-11df07d0-7fbc-444d-aca3-8e15659122b7.png">
 
 Income Structures:
+
 ![statistic_id829664_professional-gamer-income-source-in-south-korea-2021](https://user-images.githubusercontent.com/101654251/205203232-c8024398-9a9d-4dd2-9cd9-84e6d7439986.png)
 
-The income of LoL players include Team Salary, Sponsorship, Streaming, and Tournament Earning
+The income of LoL players include Team Salary, Sponsorship, Streaming, and Tournament Earning.
 
 According to a 2021 survey conducted among 91 professional e-sports gamers within ten major South Korean e-sports teams, around 96.7% of respondents stated that receiving a salary was a source of income for them. Professional gamers employed by teams or collectives generally receive salaries alongside other, more flexible income source opportunities. The most common sources of irregular income among professional gamers was income generated from streaming, which can include donations, sponsorships, and advertising.
 
