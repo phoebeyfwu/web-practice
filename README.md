@@ -3,9 +3,6 @@ Telling Story with Data Repo
 
 link to live site https://phoebeyfwu.github.io/web-practice/
 
-# portfolio
-This is my public portfolio of telling story with data
-
 # About me
 My name is Phoebe, a second year Arts Management Student. I don't have much coding experiences, but I always interested to learn more about coding and how to handle data in general.
 
