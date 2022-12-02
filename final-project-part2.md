@@ -70,7 +70,7 @@ pick one lck and one lpl team to recommend join
 
 Lck: GenG
 
-LPL: They all sucks
+LPL: They all sucks (I will somehow pick one later)
 
 
 ## Additional Sources to check out
