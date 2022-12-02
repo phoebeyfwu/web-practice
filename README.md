@@ -36,4 +36,5 @@ In comparison, the grid of the line chart reflects the debt-to-GDP trend for eac
 
 ## final project
 final project goes here
-[link to final project part 1](/final-project-part1.md)
+[final project part 1](/final-project-part1.md)
+[final project part 2](/final-project-part2.md)
