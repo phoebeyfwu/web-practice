@@ -74,4 +74,52 @@ LPL: They all sucks (I will somehow pick one later)
 
 ## Additional Sources to check out
 
+## User Research and Interviews
+
+### Target Audiences: 
+
+Young people who want to join a professional LoL team / LoL fans who want to learn more about professional world
+
+### Approach to identifying representative individuals: 
+
+My interviewee includes one young person familar with LoL, one young person not familar with LoL, and one elderly who is not familar with LoL but has been a huge tradition sports fan. The idea is that first interviewee is someone who is already interested in the subject, the second interviwee is the target age group who might develop an interest toward LoL, the thrid person  a sports fan who is familiar with the general rules of competition and can caltivate curiosity toward the esport as an alternative.
+
+### Interview Script & Results
+
+#### Interview 1, student, 20s, a LoL fan
+| Question | Response |
+| --- | --- |
+| What is the overall idea of the story? Do you find it convincing? | The benefits of becoming an esports professional and recommendations on team & country selections. The section on the future of e-sports and the selection of teams is very convincing. As for the merits of being an esports player, at the moment it feels like it just introduces the daily life of a professional, without going into the advantages of being a professional. If you want others to understand the benefits of being a professional, you may compare it with other careers, such as working the same hours as 996 but earning a lot more or something like that. |
+| What was interesting to you? | The decision to join a team can be measured in quantitative ways |
+| What would you like to change about the charts? Are headlines informative? | Headlines are informative. I would probably change that pie chart to a pictogram or other type that better represents 24 hours, showing it as a pie chart may not be intuitive. |
+| What would you like to change about other visualizations? Are there any additional visualizations you might suggest? |  I will add lol professional player's salary compared to other professions data. And a graph to show how the training years are shorter compared to other similar industries. |
+| What needs further investigation? | More data is needed to support the decision to select the team instead of description. |
+| What are your suggestions for improvement? | The structure of each part can be a little clearer, I may consider what the call for action will be, and then better organize the front storyline according to the content I want to call for. |
+| What do you want to learn more about? | How important is choosing the right team to the development of professional players? How much freedom is there in the matter of choosing a team? Can players choose a team arbitrarily? Do they also consider aspects such as team style, game strategy, etc.? |
+| What makes you curious? | What are the specific differences between the different tournaments? Which tournament is the most important? Is there a difference in the winning percentage of different teams in different tournaments? |
+| What surprised you? | Market share of Esports |
+
+#### Interview 2, student, 20s, interests in art & consulting
+| Question | Response |
+| --- | --- |
+| What is the overall idea of the story? Do you find it convincing? | The story is about being a league of legends player and what does it mean by being a professional player. |
+| What was interesting to you? | I am interested in the comparison between the professional landscape of being a professional player in different countries. |
+| What would you like to change about the charts? Are headlines informative? | The headlines are informative. But I wish the front size could be larger to show more details. And potentially empasizing the important insights of the graphs. |
+| What would you like to change about other visualizations? Are there any additional visualizations you might suggest? |  I think all the graphs are effective. What I would change is the color theme and flow of the chart to tell a more comprehensive story. |
+| What are your suggestions for improvement? | Maybe specific player’s story so that the narrative could be more informative. |
+| What do you want to learn more about? |  I would wanna know more about what is happening in their day-to-day life. |
+| What makes you curious? | What is the difference between this unique profession and others?  |
+| What surprised you? | How much money they earn! |
+
+#### Interview 3, professor, 50s, huge traditional sports fan
+| Question | Response |
+| --- | --- |
+| What is the overall idea of the story? Do you find it convincing? | A comprehensive introduction to the professional career as a LOL player. I think it is convincing, especially with the comparison of other major sports leagues. I can definitely say it has a great future ahead. |
+| What was interesting to you? | Training hours and daily routine of players, like they get up at 1pm and trained until 4am. |
+| What would you like to change about the charts? Are headlines informative? | For the numbers of viewers, it will be interesting to have a racing bar chart to show the change through the years (if you are able to find data). Headlines are great. |
+| What would you like to change about other visualizations? Are there any additional visualizations you might suggest? | I would like to see more data about the fanbase of different clubs, because it helps to show the popularity of lol alongside numbers of viewers. Also the future prediction of numbers of team and professional players would be interesting. |
+| What are your suggestions for improvement? | Just those I said about the further investigation. |
+| What do you want to learn more about? | I want to learn more about the rules of LOL esport, and an introduction for new audiences  to understand what is going on in the match. |
+| What makes you curious? | Just how to understand the match fast and easy. |
+| What surprised you? | It is fascinating how many young people like esport. It sheds light on an exciting future of the connection of technology with life. |
 
