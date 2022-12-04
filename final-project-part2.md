@@ -123,3 +123,6 @@ My interviewee includes one young person familar with LoL, one young person not 
 | What makes you curious? | Just how to understand the match fast and easy. |
 | What surprised you? | It is fascinating how many young people like esport. It sheds light on an exciting future of the connection of technology with life. |
 
+### Changes I plan on implementing
+
+For starter, I would definely want to work on finding more data about different teams and income of esport compare to other occupations. In addition, I need to pick a color scheme and unify visuals. I also like the idea of having one or two stories of play to enrich the narratives. 
