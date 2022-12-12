@@ -36,3 +36,5 @@ In comparison, the grid of the line chart reflects the debt-to-GDP trend for eac
 [final project part 2](/final-project-part2.md)
 
 [final project part 3](/final-project-part3.md)
+
+<a href = "https://preview.shorthand.com/Bim4h18O7p4bYrz8" > League of Legends Pro Player: Why and How to become one </a>
