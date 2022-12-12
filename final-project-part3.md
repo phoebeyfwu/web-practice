@@ -4,6 +4,9 @@
 
 [Final Project Part II](/final-project-part2.md)
 
+### Final Data Story
+<a href = "https://preview.shorthand.com/Bim4h18O7p4bYrz8" > League of Legends Pro Player: Why and How to become one </a>
+
 
 ### Final Write-up
 
@@ -38,6 +41,4 @@ After getting all the numbers I want, I created a new line graph in Tableau, bec
 However, because most team salary and streaming earning were behind the door, and drastically varied for top players and rookies -- it was hard to pinpoint a middle number. 
 
 
-### Final Data Story
-<a href = "https://preview.shorthand.com/Bim4h18O7p4bYrz8" > League of Legends Pro Player: Why and How to become one </a>
 
