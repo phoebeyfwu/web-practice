@@ -10,6 +10,11 @@ After completing Assignment 2, I thought through the advices I got so far, and r
 
 I also received a lot of great feedback about making comparison between esports and tradition sports or other high-salary occupations. In part 2, I found a report of the viewership of esports compare to traditional sports. But I wasn't quite sure about its given statistics, since it was a forcasting. Plus, I wanted to make a specific case about LOL. I had found data about LOL finals by years. So I serached the viwerships of eahc major sports league finals, and calculated the average viwerships by year manually (because most of their finals took place sveral days). 
 
+Part of the process:
+<img width="1254" alt="LOL vs Traditional Sports League viewership calculation process" src="https://user-images.githubusercontent.com/101654251/206995046-8dfa4f20-c38b-4bed-995d-a064a3cdefac.png">
+
+
+
 
 However, because most team salary and streaming earning were behind the door, and drastically varied for top players and rookies -- it was hard to pinpoint a middle number. 
 
