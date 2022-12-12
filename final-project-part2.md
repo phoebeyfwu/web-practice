@@ -1,6 +1,7 @@
 ## Final Project Part II
 
 [Final project part 1](/final-project-part1.md)
+[Final project part 3](/final-project-part3.md)
 
 
 ![52283980365_a90ae24f85_b](https://user-images.githubusercontent.com/101654251/205191260-bc488551-a8b3-4ffd-bcdf-db6dc7bce7d1.jpg)
