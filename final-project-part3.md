@@ -28,11 +28,11 @@ After getting all the numbers I want, I created a new line graph in Tableau, bec
 
 #### Before 2:
 
-
-
+<div class='tableauPlaceholder' id='viz1669295155235' style='position: relative'><noscript><a href='#'><img alt='Top 20 highest earning League of Legends pros ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;To&#47;Top20highestearningleagueoflegendspros&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Top20highestearningleagueoflegendspros&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;To&#47;Top20highestearningleagueoflegendspros&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div> 
 
 #### After 2:
 
+<div class='tableauPlaceholder' id='viz1670834108263' style='position: relative'><noscript><a href='#'><img alt='Top 20 Highest Earning League of Legends Pros ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;To&#47;Top20lolearning&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Top20lolearning&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;To&#47;Top20lolearning&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>   
 
 
 However, because most team salary and streaming earning were behind the door, and drastically varied for top players and rookies -- it was hard to pinpoint a middle number. 
